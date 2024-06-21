@@ -1,0 +1,10 @@
+=====BILL====== 
+ name:hari
+ dell laptops:3
+ toshiba laptops:5
+ mac laptops:2
+ Delivery type:1000
+ Packing type:5000
+   phone no.: 897
+ tax: 40300.0 
+ Grand Total: 356300.0
